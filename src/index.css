@@ -1,0 +1,16 @@
+.navbar{
+  background-color: #22668A;
+}
+
+body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Public Sans', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code{
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
